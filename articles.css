@@ -1,0 +1,49 @@
+#Portugal {
+	background: #888;
+	font-family: 'Delius Unicase', cursive;
+	font-size: 2.25em;
+	color: #41E4E1;
+	line-height: normal;
+	padding: 0 5%;
+	border-radius: 35px;
+}
+
+#Belize {
+	background: #ccc;
+	font-family: 'Ranga', cursive;
+	font-size: 2em;
+	color: #000;
+	line-height: none;
+	padding: 0 5%;
+	border-radius: 30px;
+}
+
+#Italy {
+	background: #000;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 1.75em;
+	color: #555;
+	line-height: 1.2;
+	padding: 0 5%;
+	border-radius: 25px;
+}
+
+#Africa {
+	background: #73ad21;
+	font-family: 'Exo 2', sans-serif;
+	font-size: 1.5em;
+	color: #234567;
+	line-height: 1.2em;
+	padding: 0 5%;
+	border-radius: 20px;
+}
+
+#BoraBora {
+	background: #599a68;
+	font-family: 'Pacifico', cursive;
+	font-size: 1.25em;
+	color: #333;
+	line-height: 120%;
+	padding: 0 5%;
+	border-radius: 15px:
+}
