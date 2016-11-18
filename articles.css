@@ -8,8 +8,9 @@ body {
     font-size: 2.25em;
     color: rgba(2, 171, 179, 0.98);
     line-height: 105%;
-    padding: 2.75% 2%;
-    border-radius: 35px;
+    padding: 3.3% 2%;
+    padding-left: 5%;
+    border-radius: 30%;
     margin: 2%;
 }
 
@@ -19,8 +20,8 @@ body {
 	font-size: 1.55em;
 	color: #078d96;
 	line-height: normal;
-	padding: 1% 3%;
-	border-radius: 30px;
+	padding: 2.9% 2.6%;
+	border-radius: 25%;
 	margin: 2%;
 }
 
@@ -30,8 +31,8 @@ body {
 	font-size: 1.6em;
 	color: rgba(6, 224, 234, 0.97);
 	line-height: 1.2;
-	padding: 3% 3%;
-	border-radius: 25px;
+	padding: 4% 3%;
+	border-radius: 20%;
 	margin: 2%;
 }
 
@@ -42,7 +43,7 @@ body {
 	color: rgb(94, 210, 216);
 	line-height: 1.2em;
 	padding: 1% 4%;
-	border-radius: 20px;
+	border-radius: 15%;
 	margin: 2%;
 }
 
@@ -53,10 +54,16 @@ body {
 	color: #b6eef5;
 	line-height: 120%;
 	padding: 5% 5%;
-	border-radius: 15px;
+	border-radius: 10%;
 	margin: 2%;
 }
 
 footer {
 	font-family: 'Shadows Into Light', cursive;
+}
+
+#bottom-footer {
+	color: #f7f3f3;
+	font-size: 1.25em;
+	margin: 2%;
 }
