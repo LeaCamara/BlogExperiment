@@ -20,28 +20,42 @@ a {
 	color: rgba(2, 171, 179, 0.98);
 }
 
+a:link {
+	color: rgba(2, 171, 179, 0.98);
+}
 
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	color: rgb(94, 210, 216);
+}
+
+a:active {
+	color: #cbfafd;
+}
 
 #Portugal {
-    background: #ececec;
-    font-family: 'Amatic SC', cursive;
+    background: #d8d6d6;
+    font-family: 'Calligraffitti', cursive;
     font-size: 2.25em;
     color: rgba(2, 171, 179, 0.98);
     line-height: 105%;
     padding: 3.3% 2%;
     padding-left: 5%;
-    border-radius: 30%;
+    border-radius: 50px;
     margin: 2%;
 }
 
 #Belize {
-	background: #ccc;
+	background: #adacac;
 	font-family: 'Permanent Marker', cursive;
 	font-size: 1.55em;
-	color: #078d96;
+	color: #cbfafd;
 	line-height: normal;
 	padding: 2.9% 2.6%;
-	border-radius: 25%;
+	border-radius: 25px;
 	margin: 2%;
 }
 
@@ -52,7 +66,8 @@ a {
 	color: rgba(190, 246, 249, 0.97);
 	line-height: 1.2;
 	padding: 4% 3%;
-	border-radius: 20%;
+	padding-left: 6%;
+	border-radius: 200px;
 	margin: 2%;
 }
 
@@ -63,7 +78,7 @@ a {
 	color: rgb(94, 210, 216);
 	line-height: 1.2em;
 	padding: 1% 4%;
-	border-radius: 15%;
+	border-radius: 15px;
 	margin: 2%;
 }
 
@@ -74,16 +89,16 @@ a {
 	color: #b6eef5;
 	line-height: 120%;
 	padding: 5% 5%;
-	border-radius: 10%;
+	border-radius: 100px;
 	margin: 2%;
 }
 
 footer {
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Amatic SC', cursive;
 }
 
 #bottom-footer {
 	color: #f7f3f3;
-	font-size: 1.25em;
+	font-size: 1.8em;
 	margin: 2%;
 }
