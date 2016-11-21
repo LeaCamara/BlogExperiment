@@ -1,49 +1,104 @@
+#header {
+	background: #ececec;
+	text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.25em;
+    color: rgba(2, 171, 179, 0.98);
+    padding: 1.1%;
+    border-radius: 5px;
+}
+
+body {
+	background: rgba(34, 158, 153, 0.62);
+}
+
+h3 {
+	text-align: center;
+}
+
+a {
+	color: rgba(2, 171, 179, 0.98);
+}
+
+a:link {
+	color: rgba(2, 171, 179, 0.98);
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	color: rgb(94, 210, 216);
+}
+
+a:active {
+	color: #cbfafd;
+}
+
 #Portugal {
-	background: #888;
-	font-family: 'Delius Unicase', cursive;
-	font-size: 2.25em;
-	color: #41E4E1;
-	line-height: normal;
-	padding: 0 5%;
-	border-radius: 35px;
+    background: #d8d6d6;
+    font-family: 'Calligraffitti', cursive;
+    font-size: 2.25em;
+    color: rgba(2, 171, 179, 0.98);
+    line-height: 105%;
+    padding: 3.3% 2%;
+    padding-left: 5%;
+    border-radius: 50px;
+    margin: 2%;
 }
 
 #Belize {
-	background: #ccc;
-	font-family: 'Ranga', cursive;
-	font-size: 2em;
-	color: #000;
-	line-height: none;
-	padding: 0 5%;
-	border-radius: 30px;
+	background: #adacac;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 1.55em;
+	color: #cbfafd;
+	line-height: normal;
+	padding: 2.9% 2.6%;
+	border-radius: 25px;
+	margin: 2%;
 }
 
 #Italy {
-	background: #000;
-	font-family: 'Gloria Hallelujah', cursive;
-	font-size: 1.75em;
-	color: #555;
+	background: #969494;
+	font-family: 'Delius Unicase', cursive;
+	font-size: 1.6em;
+	color: rgba(190, 246, 249, 0.97);
 	line-height: 1.2;
-	padding: 0 5%;
-	border-radius: 25px;
+	padding: 4% 3%;
+	padding-left: 6%;
+	border-radius: 200px;
+	margin: 2%;
 }
 
 #Africa {
-	background: #73ad21;
-	font-family: 'Exo 2', sans-serif;
+	background: #646564;
+	font-family: 'Rock Salt', cursive;
 	font-size: 1.5em;
-	color: #234567;
+	color: rgb(94, 210, 216);
 	line-height: 1.2em;
-	padding: 0 5%;
-	border-radius: 20px;
+	padding: 1% 4%;
+	border-radius: 15px;
+	margin: 2%;
 }
 
 #BoraBora {
-	background: #599a68;
-	font-family: 'Pacifico', cursive;
-	font-size: 1.25em;
-	color: #333;
+	background: #3d3e3d;
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.7em;
+	color: #b6eef5;
 	line-height: 120%;
-	padding: 0 5%;
-	border-radius: 15px:
+	padding: 5% 5%;
+	border-radius: 100px;
+	margin: 2%;
+}
+
+footer {
+	font-family: 'Amatic SC', cursive;
+}
+
+#bottom-footer {
+	color: #f7f3f3;
+	font-size: 1.8em;
+	margin: 2%;
 }
